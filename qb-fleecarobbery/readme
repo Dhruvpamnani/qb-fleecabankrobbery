@@ -1,0 +1,16 @@
+Laptop item:
+
+["heistlaptop3"] = {["name"] = "heistlaptop3", ["label"] = "Laptop", ["weight"] = 20000, ["type"] = "item", ["image"] = "laptop03.png", ["unique"] = true, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Pre-configured to access certain systems. Marked for police seizure."},
+
+----------------------------
+
+Marked Bills item:
+
+["markedbills"] = {["name"] = "markedbills", ["label"] = "Marked Bills", ["weight"] = 1000, ["type"] = "item", ["image"] = "markedbills.png", ["unique"] = false, ["useable"] = false, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Marked Bills"},
+
+
+
+https://media.discordapp.net/attachments/914975892781023232/940306361718292540/laptop03.jpg
+
+
+https://media.discordapp.net/attachments/914975892781023232/940306361990930512/markedbills.jpg
