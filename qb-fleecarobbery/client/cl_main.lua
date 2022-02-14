@@ -537,7 +537,7 @@ AddEventHandler('qb-fleeca:uselaptop3', function(item)
                     
                         Wait(1000)
 
-                        if HackingFleeca(60000, 3) then
+                        if HackingFleeca(60000, 3) then --- default time for hacking is 60000 you can change the time
                             StopAnimTask(PlayerPedId(), hackAnimDict, "hack_loop", 1.0)
                             TriggerEvent('qb-fleeca:darkmail')
                             TriggerEvent('dispatch:fleecaRobbery')
